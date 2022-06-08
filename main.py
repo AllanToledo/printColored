@@ -13,3 +13,6 @@ for i in range(5):
     anteriores.append(resultado)  # adiciona o resultado na lista
     for anterior in anteriores:  # mostra tentativas anteriores (incluindo a nova)
         print(anterior)
+
+
+        
